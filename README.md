@@ -29,7 +29,9 @@ Para rodar os algoritmos deste repositório, siga as etapas abaixo:
 3. Execute o arquivo Python desejado utilizando o compilador Python 3.
 
 ## Outros 
-[Vídeo](https://youtu.be/LnH0xdxy_cE)
+[Vídeo](https://youtu.be/LnH0xdxy_cE) <br>
+Vídeo também disponível no repositório como arquivo mp4. (disponível para download) <br>
+Nome do arquivo:  "DC - exercicios.mp4"
 
 
 
